@@ -1,0 +1,26 @@
+.nn{
+    background-color: white;
+    padding-top: 10px;
+    align-self: flex-end;
+    width: 96%;
+    height: 40px;
+    transform: translate(-15px,80px);
+    -webkit-transform: translate(-15px,80px);
+    -moz-transform: translate(-15px,80px);
+    -ms-transform: translate(-15px,80px);
+    -o-transform: translate(-15px,80px);
+    text-align: center;
+    font-family: var(--font_family);
+}
+.nav2{
+    display: flex;
+    background-color: #e2e2e2;
+    width: 68%;
+    height: 600px;
+    transform: translate(330px,-600px);
+    -webkit-transform: translate(330px,-600px);
+    -moz-transform: translate(330px,-600px);
+    -ms-transform: translate(330px,-600px);
+    -o-transform: translate(330px,-600px);
+    flex-direction: column;
+}
